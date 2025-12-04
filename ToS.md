@@ -98,9 +98,9 @@ Or request the server owner to disable specific features
 
 9. Changes to the ToS
 
-The bot developer may update this ToS at any time.
+I may update this ToS at any time.
 Your continued use means you accept the updated version.
 
 10. Contact
 
-For concerns, bugs, or questions, contact the me directly on discord. "thattoasterboyo"
+For concerns, bugs, or questions, contact me directly on discord. "thattoasterboyo"
