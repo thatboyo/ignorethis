@@ -76,7 +76,7 @@ These actions are for fun and not to be taken seriously.
 7. Limitations
 
 The bot is provided “as is” with no guarantee of perfect functionality.
-The developer is not responsible for:
+I am  not responsible for:
 
 Discord outages
 
