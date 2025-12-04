@@ -1,10 +1,10 @@
 Privacy Policy
 
-Last Updated: [Insert Date]
+Last Updated: 12/4/25
 
-This Privacy Policy explains how this Discord bot (“the Bot”) collects, uses, stores, and protects information from users who interact with it within Discord servers. By using the Bot, you agree to the practices described in this Policy.
+This Privacy Policy explains how this Discord bot (“Chinese Social Credit Tracker”) collects, uses, stores, and protects information from users who interact with it within Discord servers. By using the Bot, you agree to the practices described in this Policy.
 
-1. Information We Collect
+1. Information I Collect
 1.1 User IDs
 
 The Bot collects and stores Discord User IDs for the purpose of:
